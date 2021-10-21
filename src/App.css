@@ -1,7 +1,7 @@
 .App {
-  --foregroundColor: #61dafb;
-  --backgroundColor: #282c34;
-  --textColor: white;
+  --foregroundColor: #007079;
+  --backgroundColor: white;
+  --textColor: #333;
   text-align: center;
 }
 
